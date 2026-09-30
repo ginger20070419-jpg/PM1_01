@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello VisualStudio Git!\n";
+    std::cout << "Hello VisualStudio Git!　俺は本田翼だぁぁぁぁぁ!!!!!!!!!!!!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
